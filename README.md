@@ -58,7 +58,7 @@ is a senior security architect, software development manager, and project manage
 
 
 
-## Other books by the authors
+## Other books by the author
 * [Hands-On Security in DevOps](https://www.packtpub.com/networking-and-servers/hands-security-devops?utm_source=github&utm_medium=repository&utm_campaign=9781788995504)
 
 ### Suggestions and Feedback
