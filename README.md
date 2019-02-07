@@ -48,9 +48,9 @@ With the following software and hardware list you can run all code files present
 We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](https://www.packtpub.com/sites/default/files/downloads/9781789802023_ColorImages.pdf).
 
 ### Related products
-* Linux: Powerful Server Administration [[Packt]](https://www.packtpub.com/networking-and-servers/linux-powerful-server-administration?utm_source=github&utm_medium=repository&utm_campaign=9781788293778) [[Amazon]](https://www.amazon.com/dp/1788293770)
+* Cloud Security Automation [[Packt]](https://www.packtpub.com/networking-and-servers/cloud-security-automation?utm_source=github&utm_medium=repository&utm_campaign=9781788627863) [[Amazon]](https://www.amazon.com/dp/1788627865)
 
-* Linux Device Drivers Development [[Packt]](https://www.packtpub.com/networking-and-servers/linux-device-drivers-development?utm_source=github&utm_medium=repository&utm_campaign=9781785280009) [[Amazon]](https://www.amazon.com/dp/1788293770)
+* Security Automation with Ansible 2 [[Packt]](https://www.packtpub.com/virtualization-and-cloud/security-automation-ansible-2?utm_source=github&utm_medium=repository&utm_campaign=9781788394512) [[Amazon]](https://www.amazon.com/dp/1788394518)
 
 ## Get to Know the Author
 **Tony Hsiang-Chih Hsu**
@@ -59,8 +59,7 @@ is a senior security architect, software development manager, and project manage
 
 
 ## Other books by the authors
-* [Mastering Linux Network Administration](https://www.packtpub.com/networking-and-servers/mastering-linux-network-administration?utm_source=github&utm_medium=repository&utm_campaign=9781784399597)
-* [Linux Mint Essentials](https://www.packtpub.com/networking-and-servers/linux-mint-essentials?utm_source=github&utm_medium=repository&utm_campaign=9781782168157)
+* [Hands-On Security in DevOps](https://www.packtpub.com/networking-and-servers/hands-security-devops?utm_source=github&utm_medium=repository&utm_campaign=9781788995504)
 
 ### Suggestions and Feedback
 [Click here](https://docs.google.com/forms/d/e/1FAIpQLSdy7dATC6QmEL81FIUuymZ0Wy9vH1jHkvpY57OiMeKGqib_Ow/viewform) if you have any feedback or suggestions.
